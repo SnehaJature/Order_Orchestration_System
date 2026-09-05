@@ -2,6 +2,10 @@
 
 An event-driven order workflow demonstrating the Saga pattern across Order, Inventory, Payment, and Shipping service boundaries. The Spring Boot process hosts the services locally; Kafka topics model the production communication boundaries.
 
+## UI Preview
+
+![Orderflow Saga Control Room](docs/images/orderflow-control-room.png)
+
 ## Run it
 
 With Java 25 and Maven 3.9:
