@@ -1,0 +1,6 @@
+target/
+data/
+.idea/
+.DS_Store
+.github/modernize/
+*.log
